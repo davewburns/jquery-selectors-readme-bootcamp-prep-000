@@ -8,5 +8,11 @@ function lastImageSelector () {
 }
 
 function babyNinjaSelector () {
-  
+  return ('#baby-ninja');
 }
+
+function divSelector() {
+  return ('div.pics');
+}
+
+function 
